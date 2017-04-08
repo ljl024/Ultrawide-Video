@@ -1,0 +1,38 @@
+{ 
+	"extName": {
+		"message": "超宽视频",
+		"description": "插件的名称"
+	},
+	"extDescription": {
+		"message": "使在线视频更好的在超宽（比如21:9）屏幕上全屏播放。",
+		"description": "插件的描述"
+	},
+	"settingOff": {
+		"message": "关闭",
+		"description": "设定页面上的文字"
+	},
+	"settingAspectRatio": {
+		"message": "拉伸",
+		"description": "设定页面上的文字"
+	},
+	"settingCrop": {
+		"message": "裁剪",
+		"description": "设定页面上的文字"
+	},
+	"settingForceModes": {
+		"message": "强制模式",
+		"description": "设定页面上的文字"
+	},
+	"settingForceCrop": {
+		"message": "强制裁剪",
+		"description": "设定页面上的文字"
+	},
+	"settingForceAspect": {
+		"message": "强制拉伸",
+		"description": "设定页面上的文字"
+	},
+	"settingForceModeDescription": {
+		"message": "关闭",
+		"description": "设定页面上的文字"
+	}
+}

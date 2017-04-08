@@ -1,0 +1,39 @@
+{ 
+	"extName": {
+		"message": "UltraWide Video",
+		"description": "Name of the extension"
+	},
+	"extDescription": {
+		"message": "Allows wider than average screens (eg.21:9) to play online video content and fit the screen properly in fullscreen mode.",
+		"description": "Description of the extension"
+	},
+	"settingOff": {
+		"message": "Off",
+		"description": "设定页面上的文字"
+	},
+	"settingAspectRatio": {
+		"message": "Aspect Ratio",
+		"description": "设定页面上的文字"
+	},
+	"settingCrop": {
+		"message": "Crop",
+		"description": "设定页面上的文字"
+	},
+	"settingForceModes": {
+		"message": "Force modes",
+		"description": "设定页面上的文字"
+	},
+	"settingForceCrop": {
+		"message": "Force crop(Experimental)",
+		"description": "设定页面上的文字"
+	},
+	"settingForceAspect": {
+		"message": "Force Aspect(Experimental)",
+		"description": "设定页面上的文字"
+	},
+	"settingForceModeDescription": {
+		"message": "关闭",
+		"description": "设定页面上的文字"
+	}
+
+}

@@ -1,8 +1,8 @@
 {
-    "name": "UltraWide Video",
+    "name": "__MSG_extName__",
     "version": "1.7",
     "manifest_version": 2,
-    "description": "Allows wider than average screens (eg.21:9) to play online video content and fit the screen properly in fullscreen mode.",
+    "description": "__MSG_extDescription__",
     "icons": {
         "128": "images/icon.png"
     },
@@ -22,8 +22,9 @@
     },
     "browser_action": {
         "default_icon": "images/icon.png",
-        "default_title": "UltraWide Video",
+        "default_title": "__MSG_extName__",
         "default_popup":"html/popup.html"
-    }
+    },
+    "default_locale": "en"
 
 }
